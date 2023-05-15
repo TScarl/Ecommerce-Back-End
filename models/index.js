@@ -25,6 +25,8 @@ Tag.belongsToMany (Product, {
   foreignKey: 'tag_id',
   otherKey: 'product_id',
   onDelete: 'CASCADE',
+
+  gsgdsgdsgsesf
 });
 
 module.exports = {

@@ -37,6 +37,7 @@
       freezeTableName: true,
       underscored: true,
       modelName: 'product_tag',
+      gdsgdffdtgrs
     }
   );
 
