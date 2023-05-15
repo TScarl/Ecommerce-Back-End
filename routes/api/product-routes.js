@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
   } catch (err) {
     res.status(500).json(err);
   }
-});cvdvbvxbdffsfgdsf
+});
 
 // get one product
 router.get('/:id', async (req, res) => {
