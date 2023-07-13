@@ -4,7 +4,7 @@
 
 Ecommerce BackEnd provides you with the ability to easily view and edit your merchandise. All of your businesses data is saved securely into the database where you can store your merchandise infomration into three easy classes: categories, products and tags. Allowing you to add, edit, update or delete any product you have for sale.
 
-Video of app in use: https://drive.google.com/file/d/1sENpE0-je6zRryddvE6uB1BST19Fg2mn/view
+Video of app in use: https://drive.google.com/file/d/1V2edy8ACQVaKsDjICQflnkApeWgPCCLF/view
 
 ## License
 
